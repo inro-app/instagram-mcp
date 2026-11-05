@@ -24,6 +24,9 @@ Hosted, nothing to install. Built on Meta's official Instagram API (Inrō is a M
 
 ## Connect
 
+> [!IMPORTANT]
+> You need an Inrō account before connecting. [Sign up free](https://app.inro.social/users/sign_up?utm_source=github&utm_medium=repo&utm_campaign=instagram-mcp), then connect your Instagram account in Inrō and start the 14-day Pro trial.
+
 **Claude (claude.ai or Claude Desktop):** Settings, Connectors, Add custom connector, then paste `https://api.inro.social/mcp` and sign in to Inrō.
 
 **ChatGPT:** add a custom connector (MCP) with the URL `https://api.inro.social/mcp` and sign in to Inrō. Custom connectors may require developer mode, depending on your ChatGPT plan.

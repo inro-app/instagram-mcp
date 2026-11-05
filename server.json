@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.inro-app/instagram-mcp",
   "title": "Inrō for Instagram",
-  "description": "Hosted Instagram MCP: DMs, comments, comment-to-DM, campaigns, CRM and analytics via Meta's API",
-  "version": "1.0.1",
+  "description": "Instagram MCP for DM and comment automation, AI Agent and content publishing via Meta's official API",
+  "version": "1.0.2",
   "websiteUrl": "https://www.inro.social/product/mcp",
   "repository": {
     "url": "https://github.com/inro-app/instagram-mcp",

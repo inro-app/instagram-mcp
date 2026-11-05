@@ -3,7 +3,7 @@
   "name": "io.github.inro-app/instagram-mcp",
   "title": "Inrō for Instagram",
   "description": "Hosted Instagram MCP: DMs, comments, comment-to-DM, campaigns, CRM and analytics via Meta's API",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.inro.social/product/mcp",
   "repository": {
     "url": "https://github.com/inro-app/instagram-mcp",

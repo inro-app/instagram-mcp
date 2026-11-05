@@ -3,7 +3,14 @@
   "name": "io.github.inro-app/instagram-mcp",
   "title": "Inrō for Instagram",
   "description": "Instagram MCP for DM and comment automation, AI Agent and content publishing via Meta's official API",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/inro-app/instagram-mcp/main/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "websiteUrl": "https://www.inro.social/product/mcp",
   "repository": {
     "url": "https://github.com/inro-app/instagram-mcp",
